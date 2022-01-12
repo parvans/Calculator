@@ -1,0 +1,29 @@
+.calc{
+    width: 400px;
+    height: 600px;
+    background: gray;
+    margin-left: 514px;
+}
+#screen{
+    width: 80%;
+    margin-left: 36px;
+    height: 45px;
+    margin-top: 30px;
+    pointer-events: none;
+}
+.btn{
+    width: 60px;
+    height: 45px;
+    margin-left:30px;
+    margin-top: 30px;
+    background: red;
+    border-style: none;
+
+}
+.btn:hover{
+    background:greenyellow;
+}
+.developer{
+    width: 1254px;
+    height: 90px;
+}
